@@ -17,4 +17,8 @@
   (lib (name "00-kiml-capacitors-smd")(type "KiCad")(uri "${KIML_ROOT}/symbols/00-kiml-capacitors-smd.kicad_sym")(options "")(descr ""))
   (lib (name "00-kiml-inductors")(type "KiCad")(uri "${KIML_ROOT}/symbols/00-kiml-inductors.kicad_sym")(options "")(descr ""))
   (lib (name "00-kiml-power-protection")(type "KiCad")(uri "${KIML_ROOT}/symbols/00-kiml-power-protection.kicad_sym")(options "")(descr ""))
+  (lib (name "00-kiml-transitor-fet")(type "KiCad")(uri "${KIML_ROOT}/symbols/00-kiml-transitor-fet.kicad_sym")(options "")(descr ""))
+  (lib (name "00-kiml-button-switch-smd")(type "KiCad")(uri "${KIML_ROOT}/symbols/00-kiml-button-switch-smd.kicad_sym")(options "")(descr ""))
+  (lib (name "00-kiml-led-smd")(type "KiCad")(uri "${KIML_ROOT}/symbols/00-kiml-led-smd.kicad_sym")(options "")(descr ""))
+  (lib (name "00-kiml-connector-pin-header-1.27mm")(type "KiCad")(uri "${KIML_ROOT}/symbols/00-kiml-connector-pin-header-1.27mm.kicad_sym")(options "")(descr ""))
 )
