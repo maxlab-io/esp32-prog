@@ -3559,8 +3559,8 @@
     (uuid fee1fa15-e262-4914-bb15-65d278e2946d)
   )
 
-  (text "4. DTR pin pull down resistor. Taken from CH340C datasheet:\n\nThe DTR# pin of CH340 is used as a configuration input pin before the USB configuration is complete. An\nexternal 4.7KΩ pull-down resistor can be connected with this pin to generate default low level during USB\nenumeration, apply larger supply current to the USB bus via the configuration descriptor."
-    (at 16.51 195.58 0)
+  (text "5. DTR pin pull down resistor. Taken from CH340C datasheet:\n\nThe DTR# pin of CH340 is used as a configuration input pin before the USB configuration is complete. An\nexternal 4.7KΩ pull-down resistor can be connected with this pin to generate default low level during USB\nenumeration, apply larger supply current to the USB bus via the configuration descriptor."
+    (at 16.51 194.31 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 03c703ad-dae1-437d-8aef-550beb0b243e)
   )
@@ -3569,8 +3569,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 31648dd2-c368-4620-8f8b-77f303416020)
   )
-  (text "3. Diffpair width\n\nNaively taken from \nhttps://www.digikey.ca/en/maker/projects/how-to-route-differential-pairs-in-kicad-for-usb/45b99011f5d34879ae1831dce1f13e93"
-    (at 16.51 180.34 0)
+  (text "4. Diffpair width\n\nNaively taken from \nhttps://www.digikey.ca/en/maker/projects/how-to-route-differential-pairs-in-kicad-for-usb/45b99011f5d34879ae1831dce1f13e93"
+    (at 16.51 181.61 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 417cdb6c-e33f-4139-89a2-0fe4c960f88e)
   )
@@ -3583,8 +3583,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d5104491-ac3d-486b-8e94-32f9bbe166c7)
   )
-  (text "2. Mating wire\n\nshould pair with https://www.tag-connect.com/product/tc2050-idc-nl-050-all\nhttps://www.tag-connect.com/product/tc2050-idc-tag-connect-2050-idc"
-    (at 16.51 167.64 0)
+  (text "3. Mating wire\n\nshould pair with \nhttps://www.tag-connect.com/product/tc2050-idc-tag-connect-2050-idc\n(old rev used https://www.tag-connect.com/product/tc2050-idc-nl-050-all)"
+    (at 16.51 170.18 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f62dc6da-3fc0-48c3-902d-39b247735371)
   )
