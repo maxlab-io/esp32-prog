@@ -4,7 +4,7 @@ A compact USB‑C programmer for flashing and debugging ESP32‑based boards ove
 
 Plug it into USB, press the Tag‑Connect onto the target, and flash with `esptool`, ESP‑IDF, Arduino or PlatformIO. The on‑board auto‑reset circuit puts the ESP32 into download mode automatically, with no BOOT/EN buttons to press.
 
-<!-- TODO: add a photo or render, e.g. ![esp32-prog](docs/esp32-prog.jpg) -->
+<img width="1599" height="1095" alt="image" src="https://github.com/user-attachments/assets/94f0e954-b896-424c-8ce8-1820c5b296fb" />
 
 ## Features
 
